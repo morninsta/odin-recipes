@@ -1,0 +1,46 @@
+h1 {
+    color: #e00023;
+}
+
+p {
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #e00023;
+}
+
+body {
+    background-color: #009348;
+}
+
+.od {
+    width: 350px;
+    height:200px ;
+}
+
+
+ol li {
+    color: #e00023;
+    font-weight: 701;
+}
+
+h2 {
+    color: #e00023;
+}
+
+ul {
+    color: white;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
