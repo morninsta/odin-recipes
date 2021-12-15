@@ -19,15 +19,20 @@ a:hover {
     color: #e00023;
 }
 
+
 body {
     background-color: #009348;
 }
 
 .od {
     width: 350px;
-    height:200px ;
+    height:200px;
 }
 
+#link {
+    text-align: center;
+    font-weight: 700;
+}
 
 ol li {
     color: #e00023;
