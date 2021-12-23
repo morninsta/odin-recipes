@@ -1,7 +1,23 @@
+.head {
+    padding: 0px;
+    margin: 0px;
+}
 h1 {
-    color: #e00023;
+    color: white;
+    margin: 0px;
+    border: 0px;
+    padding: 20px;
+    display: flex;
+    display: inline;
+}
+.head {
+    background-color: red;
+    display: flex;
 }
 
+.firstp {
+    margin-top: 29px;
+}
 p {
     color: white;
     font-weight: 700;
@@ -12,26 +28,37 @@ p {
 a {
     color: white;
     text-decoration: none;
+    
+    
 
 }
 
 a:hover {
-    color: #e00023;
+    color: #009348;
 }
 
 
 body {
     background-color: #009348;
 }
-
+inline
 .od {
     width: 350px;
     height:200px;
 }
 
 #link {
-    text-align: center;
+    text-align: right;
     font-weight: 701;
+    margin: 0px;
+    padding: 20px;
+    
+
+}
+
+div {
+    width: 100%;
+    display: inline;
 }
 
 ol li {
